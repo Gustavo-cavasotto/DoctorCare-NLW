@@ -2,7 +2,7 @@
   DoctorCare 👨‍⚕️
 </h1>
 
-<img src="https://raw.githubusercontent.com/Gustavo-cavasotto/DoctorCare/main/assets/images/doctor-care-one.vercel.app_.png">
+<img src="https://raw.githubusercontent.com/Gustavo-cavasotto/DoctorCare-NLW/main/assets/images/doctor-care-one.vercel.app_.png">
 
 ## 📝 Descrição 
 
