@@ -8,7 +8,7 @@
 
 Um website da Clínica médica DoctorCare. Feita durante o evento da Rocketseat (NLW - Return)
 
-- site final: [doctor-care-one.vercel.app/](https://doctor-care-one.vercel.app/)
+- site final: [doctor-care-one.vercel.app/](https://gustavo-cavasotto.github.io/DoctorCare-NLW/)
 
 ## 🚀 Tecnologias
 
